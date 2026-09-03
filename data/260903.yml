@@ -1,11 +1,13 @@
 about:
-  description: Display richly-styled presentations using your terminal
+  description:
+  |
+    Display richly-styled presentations using your terminal
   license: MIT
   homepage: https://www.spiel.how
   head: 9633cbb
   archived: true
   latestVersion: v0.5.1
-  collectedAt: 2026-09-03T05:21:43Z
+  collectedAt: 2026-09-03T22:34:44Z
 timeline:
   created: 2021-03-28
   lastCommit: 2026-03-28
@@ -22,7 +24,7 @@ language:
   Python: 80702
   Dockerfile: 371
   Shell: 125
-totalLine: 81198
+totalBytes: 81198
 recent:
   last30d:
     since: 2026-08-04
