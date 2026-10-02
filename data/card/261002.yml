@@ -235,4 +235,3 @@ checks:
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/quality-check.yml:54'
 ---
-{"id":100394730,"author":{"login":"JoshKarpel","id":7133863,"node_id":"MDQ6VXNlcjcxMzM4NjM=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOFQC1Q84F--bq","tag_name":"v0.5.1","target_commitish":"main","name":"v0.5.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2023-04-21T23:52:07Z","updated_at":"2023-04-21T23:53:02Z","published_at":"2023-04-21T23:53:02Z","assets":[],"body":"https://www.spiel.how/changelog/#051"}
