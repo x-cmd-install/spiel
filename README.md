@@ -45,7 +45,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.5.1` (2023-04-21)
-- **Last commit**: 2026-03-28
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
@@ -53,18 +53,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 368 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 7 · **Commits**: 374
+- **Releases**: 13 · **Merged PRs**: 369 · **Open PRs**: 5 · **Closed issues**: 15 · **Open issues**: 7 · **Commits**: 375
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-20 | 0 | 38 | 1 | 0 | 0 | 38 |
-| last720d | 2024-10-25 | 0 | 101 | 1 | 0 | 1 | 102 |
+| 30d | 2026-09-16 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last60d | 2026-08-17 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 90d | 2026-07-18 | 0 | 1 | 5 | 0 | 0 | 1 |
+| last180d | 2026-04-19 | 0 | 1 | 5 | 0 | 0 | 1 |
+| 360d | 2025-10-21 | 0 | 39 | 5 | 0 | 0 | 39 |
+| last720d | 2024-10-26 | 0 | 102 | 5 | 0 | 1 | 103 |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for spiel lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:29:03Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:18:13Z._
